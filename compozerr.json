@@ -1,5 +1,0 @@
-{
-  "type": "project",
-  "name": "pdftoepub",
-  "start": "npx serve -s . -l 1234"
-}
