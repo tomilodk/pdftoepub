@@ -5,9 +5,7 @@
   "main": "pdf-to-epub.js",
   "type": "module",
   "scripts": {
-    "convert": "node pdf-to-epub.js",
-    "build": "tsc",
-    "start": "ts-node pdf-to-epub.ts"
+    "dev": "npx serve ."
   },
   "keywords": ["pdf", "epub", "converter", "ebook"],
   "license": "MIT",
